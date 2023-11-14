@@ -1,4 +1,4 @@
-# Soil_classification_via_webapp
+
 absl-py==1.0.0
 asgiref==3.5.2
 astunparse==1.6.3
